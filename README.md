@@ -1,29 +1,72 @@
-### Hi there, I'm Umar Abdullah 👋
+# Hi, I'm Umar Abdullah 👋
 
-I'm a passionate Web Developer from Pakistan, focused on building clean and responsive web applications.
+### BS Computer Science Student | Aspiring Full-Stack Developer
+
+I'm a Computer Science student from Pakistan passionate about
+building useful, responsive, and user-friendly web applications.
+
+- 🌱 Currently learning Advanced JavaScript and React
+- 💻 Exploring Full-Stack Development with the MERN stack
+- 🎯 Focused on improving problem-solving and development skills
+- 🛠️ Interested in building real-world software projects
+- 📫 Email: umark20011@gmail.com
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
+HTML5 • CSS3 • JavaScript • React
+
+### Backend & Database
+Node.js • Express.js • MongoDB
+
+### Tools
+Git • GitHub • VS Code
+
+> Technologies listed above represent my learning path.
+> I'll continue expanding this section as I build projects with them.
 
 ---
 
-#### 🚀 About Me
-- 🔭 Currently learning: Advanced JavaScript & React
-- 🌱 Exploring: Full-Stack Development
-- 💬 Ask me about: HTML, CSS, JavaScript
-- 📫 How to reach me: umark20011@email.com
-- ⚡ Fun fact: I love turning ideas into real projects
+## 🚀 Featured Projects
 
-#### 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+### 1. FSD Lab Portfolio
+My university Full Stack Development lab and portfolio work.
 
-#### 📊 GitHub Stats
-![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umar-abdullah0786&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umar-abdullah0786&layout=compact&theme=tokyonight)
+- JavaScript-based development
+- Practical coursework and experiments
 
-#### 📌 Featured Projects
-Will be added soon — Stay tuned!
+[View Repository](https://github.com/umar-abdullah0786/fsd-lab06-portfolio)
+
+### 2. Hostel & Mess Management System
+A university project planned with the MERN stack.
+
+Planned features:
+- Student, warden, and admin dashboards
+- Room allocation and hostel fee management
+- Mess menu and student feedback
+- Complaints and announcements
+
+[View Project](https://github.com/umar-abdullah0786)
+
+### 3. More Projects Coming Soon
+I'll add completed projects with documentation,
+screenshots, and demos as I build them.
 
 ---
-⭐ From [umar-abdullah0786](https://github.com/umar-abdullah0786)
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umar-abdullah0786&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umar-abdullah0786&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in learning, collaborating, and contributing
+to meaningful software projects.
+
+📧 Email: umark20011@gmail.com
